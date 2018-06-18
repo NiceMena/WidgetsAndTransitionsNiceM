@@ -3,6 +3,7 @@
 -- main.lua
 -- Transitions Examples
 -- Created by Wal Wal
+-- edited By Nice Mena
 -- Started November 14
 --
 -----------------------------------------------------------------------------------------
